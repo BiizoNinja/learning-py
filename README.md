@@ -1,2 +1,5 @@
 # learning-py
-Me learning python from Mosh's YouTube Tutorial. 
+Me messing around in python while watching Mosh's tutorial lol
+
+Tutorial:
+https://www.youtube.com/watch?v=kqtD5dpn9C8
